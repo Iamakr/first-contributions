@@ -1,0 +1,8 @@
+Check this Github resource to learn -
+https://try.github.io/
+
+Github hacks: 
+label:"hacktoberfest"  #Show only hacktoberfest tagged label repo & issue 
+is:issue   #To check the issue
+is:open    #To check the open issue
+label:"good first Issue"  #Beginner level issue
